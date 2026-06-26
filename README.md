@@ -32,18 +32,10 @@ My approach is stack-agnostic: I master the logic, and the implementation follow
 
 ## 💼 Commercial Experience Highlights
 
-*   **Fixed Kafka Notification Duplication**
-
-In an internal office system, resolved a critical issue where notifications were being delivered three times or not at all. Fixed it by implementing a unique identifier for each notification to ensure exactly-once delivery.
-
-*   **Integrated CS:GO Skin Shop Metrics**
-For an online store, I quickly learned the Steam API for integration and set up a full monitoring stack using Prometheus and Grafana to track business and technical metrics.
-
-*   **Open-Source Contribution & Mentoring**
-Regularly onboard new contributors to open-source projects, explaining system architecture, team roles, and helping them find their place to contribute effectively.
-
-*   **On-Demand Freelance**
-I'm open to building or fixing systems, integrations, and automation. If you have a problem, I can help solve it — fast and reliably.
+*   **Fixed Kafka Notification Duplication:** In an internal office system, resolved a critical issue where notifications were being delivered three times or not at all. Fixed it by implementing a unique identifier for each notification to ensure exactly-once delivery.
+*   **Integrated CS:GO Skin Shop Metrics:** For an online store, I quickly learned the Steam API for integration and set up a full monitoring stack using Prometheus and Grafana to track business and technical metrics.
+*   **Open-Source Contribution & Mentoring:** Regularly onboard new contributors to open-source projects, explaining system architecture, team roles, and helping them find their place to contribute effectively.
+*   **On-Demand Freelance:** I'm open to building or fixing systems, integrations, and automation. If you have a problem, I can help solve it — fast and reliably.
 
 <hr style="border: 1px solid #555; width: 100%;" />
 
