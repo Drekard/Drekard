@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FD29&width=600&lines=Backend+Engineer+%26+System+Architect;Full-Stack+Developer;Open-Source+Contributor;Building+Decentralized+Systems;Problem+Solver+by+Nature)](https://git.io/typing-svg)
+<h1 align="center">Hi traveler, I'm Egor 👋</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00FD29&width=600&lines=Backend+Engineer+%26+System+Architect;Full-Stack+Developer;Open-Source+Contributor;Building+Decentralized+Systems;Problem+Solver+by+Nature" alt="Typing SVG" />
+  </a>
+</p>
+
+<hr style="border: 1px solid #555; width: 100%;" />
 
 ## 👨‍💻 About Me
 
@@ -9,6 +16,8 @@ I'm a software engineer with ~3 years of experience, driven by a passion for bui
 *   **AI-Augmented Development:** I actively use AI assistants to accelerate development, research new stacks, and maintain momentum even when tired.
 *   **Always Learning:** Currently focused on deepening my knowledge of web protocols, hosting, and networking to close gaps in my expertise.
 
+<hr style="border: 1px solid #555; width: 100%;" />
+
 ## 🛠️ Tech Stack
 
 My approach is stack-agnostic: I master the logic, and the implementation follows. However, I'm most proficient with:
@@ -18,12 +27,20 @@ My approach is stack-agnostic: I master the logic, and the implementation follow
 **DevOps & Infrastructure:** Docker, CI/CD, Kubernetes (basics), Prometheus/Grafana
 **Other:** WordPress, HTML/CSS/JS
 
+<hr style="border: 1px solid #555; width: 100%;" />
+
 ## 💼 Commercial Experience Highlights
 
-*   **Fixed Kafka Notification Duplication:** In an internal office system, resolved a critical issue where notifications were being delivered three times or not at all. Fixed it by implementing a unique identifier for each notification to ensure exactly-once delivery.
-*   **Integrated CS:GO Skin Shop Metrics:** For an online store, I quickly learned the Steam API for integration and set up a full monitoring stack using Prometheus and Grafana to track business and technical metrics.
-*   **Open-Source Contribution & Mentoring:** Regularly onboard new contributors to open-source projects, explaining system architecture, team roles, and helping them find their place to contribute effectively.
-*   **On-Demand Freelance:** I'm open to building or fixing systems, integrations, and automation. If you have a problem, I can help solve it — fast and reliably.
+*   **Fixed Kafka Notification Duplication**
+In an internal office system, resolved a critical issue where notifications were being delivered three times or not at all. Fixed it by implementing a unique identifier for each notification to ensure exactly-once delivery.
+*   **Integrated CS:GO Skin Shop Metrics**
+For an online store, I quickly learned the Steam API for integration and set up a full monitoring stack using Prometheus and Grafana to track business and technical metrics.
+*   **Open-Source Contribution & Mentoring**
+Regularly onboard new contributors to open-source projects, explaining system architecture, team roles, and helping them find their place to contribute effectively.
+*   **On-Demand Freelance**
+I'm open to building or fixing systems, integrations, and automation. If you have a problem, I can help solve it — fast and reliably.
+
+<hr style="border: 1px solid #555; width: 100%;" />
 
 ## 🚀 Featured Projects
 
@@ -39,6 +56,8 @@ This is my magnum opus — a long-term project designed to be a privacy-focused 
 
 [🔗 View on GitHub](https://github.com/Drekard/projectT)
 
+<hr style="border: 1px solid #555; width: 100%;" />
+
 ### 🌐 Pitomnik- – Landing Page / Demo Website
 
 **A simple landing page built as a demo project to showcase front-end capabilities.**
@@ -47,14 +66,9 @@ Created in one evening based on a vague technical requirement ("just make a webs
 
 [🔗 View on GitHub](https://github.com/Drekard/pitomnik-)
 
+<hr style="border: 1px solid #555; width: 100%;" />
+
 ## 📊 What I'm Currently Learning
 
 -   Deepening expertise in web protocols, hosting, and DNS configuration.
 -   Leveraging AI tools to automate workflows and streamline development processes.
-
-## 📫 Contact Me
-
-I'm always open to interesting projects, collaborations, or freelance opportunities.
-
--   **Telegram:** @Redoranar
--   **Email:** (Добавь свой email, если хочешь)
