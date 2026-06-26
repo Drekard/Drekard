@@ -1,16 +1,60 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FD29&width=600&lines=Backend+Engineer+%26+System+Architect;Full-Stack+Developer;Open-Source+Contributor;Building+Decentralized+Systems;Problem+Solver+by+Nature)](https://git.io/typing-svg)
 
-<!--
-**Drekard/Drekard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a software engineer with ~3 years of experience, driven by a passion for building systems that solve real problems. While my core is **backend development**, I work comfortably across the full stack. I'm a strong believer that the architecture and logic are universal, and syntax is just a detail that tools (and AI) can handle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Core Expertise:** High-load backend systems, system architecture, algorithmization, and data flow design.
+*   **Full-Stack Capable:** I can build a robust backend and a functional frontend. I'm not a pixel-perfect designer, but I can make it work.
+*   **AI-Augmented Development:** I actively use AI assistants to accelerate development, research new stacks, and maintain momentum even when tired.
+*   **Always Learning:** Currently focused on deepening my knowledge of web protocols, hosting, and networking to close gaps in my expertise.
+
+## 🛠️ Tech Stack
+
+My approach is stack-agnostic: I master the logic, and the implementation follows. However, I'm most proficient with:
+
+**Languages:** C#, Go, Python, JavaScript/TypeScript, PHP
+**Backend & Data:** PostgreSQL, SQLite, REST API, Kafka, ClickHouse
+**DevOps & Infrastructure:** Docker, CI/CD, Kubernetes (basics), Prometheus/Grafana
+**Other:** WordPress, HTML/CSS/JS
+
+## 💼 Commercial Experience Highlights
+
+*   **Fixed Kafka Notification Duplication:** In an internal office system, resolved a critical issue where notifications were being delivered three times or not at all. Fixed it by implementing a unique identifier for each notification to ensure exactly-once delivery.
+*   **Integrated CS:GO Skin Shop Metrics:** For an online store, I quickly learned the Steam API for integration and set up a full monitoring stack using Prometheus and Grafana to track business and technical metrics.
+*   **Open-Source Contribution & Mentoring:** Regularly onboard new contributors to open-source projects, explaining system architecture, team roles, and helping them find their place to contribute effectively.
+*   **On-Demand Freelance:** I'm open to building or fixing systems, integrations, and automation. If you have a problem, I can help solve it — fast and reliably.
+
+## 🚀 Featured Projects
+
+### 🗂️ ProjectT – Decentralized Platform for Collections
+
+**A hybrid of a file explorer, Pinterest, and messenger, built with Go and libp2p.**
+
+This is my magnum opus — a long-term project designed to be a privacy-focused alternative to centralized platforms. It's a P2P application where objects (text, images, files, links) live as semantic units, not scattered files.
+
+*   **My Role:** Sole developer, architect, and designer. I built everything from scratch.
+*   **Key Challenge:** The most difficult part was mastering NAT traversal, configuring libp2p protocols (DHT, relay, mDNS, pubsub), and ensuring end-to-end encryption worked flawlessly across the network.
+*   **Current Status:** Already usable in its current state. My next steps are migrating to an HTML/CSS-based UI framework and continuing optimization.
+
+[🔗 View on GitHub](https://github.com/Drekard/projectT)
+
+### 🌐 Pitomnik- – Landing Page / Demo Website
+
+**A simple landing page built as a demo project to showcase front-end capabilities.**
+
+Created in one evening based on a vague technical requirement ("just make a website"). It demonstrates clean, functional layout with HTML, CSS, and a touch of JavaScript — all without a backend.
+
+[🔗 View on GitHub](https://github.com/Drekard/pitomnik-)
+
+## 📊 What I'm Currently Learning
+
+-   Deepening expertise in web protocols, hosting, and DNS configuration.
+-   Leveraging AI tools to automate workflows and streamline development processes.
+
+## 📫 Contact Me
+
+I'm always open to interesting projects, collaborations, or freelance opportunities.
+
+-   **Telegram:** @Redoranar
+-   **Email:** (Добавь свой email, если хочешь)
