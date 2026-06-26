@@ -1,7 +1,7 @@
 <h1 align="center">Hi traveler, I'm Egor 👋</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00FD29&width=600&lines=Backend+Engineer+%26+System+Architect;Full-Stack+Developer;Open-Source+Contributor;Building+Decentralized+Systems;Problem+Solver+by+Nature" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=00FD29&center=true&width=600&lines=Backend+Engineer+%26+System+Architect;Full-Stack+Developer;Open-Source+Contributor;Building+Decentralized+Systems;Problem+Solver+by+Nature" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,10 +22,11 @@ I'm a software engineer with ~3 years of experience, driven by a passion for bui
 
 My approach is stack-agnostic: I master the logic, and the implementation follows. However, I'm most proficient with:
 
-**Languages:** C#, Go, Python, JavaScript/TypeScript, PHP
-**Backend & Data:** PostgreSQL, SQLite, REST API, Kafka, ClickHouse
-**DevOps & Infrastructure:** Docker, CI/CD, Kubernetes (basics), Prometheus/Grafana
-**Other:** WordPress, HTML/CSS/JS
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,go,py,js,ts,php,html,css,wordpress,postgres,sqlite,docker,kubernetes,grafana,githubactions" />
+  </a>
+</p>
 
 <hr style="border: 1px solid #555; width: 100%;" />
 
