@@ -20,22 +20,57 @@ I'm a software engineer with ~3 years of experience, driven by a passion for bui
 
 ## 🛠️ Tech Stack
 
-My approach is stack-agnostic: I master the logic, and the implementation follows. However, I'm most proficient with:
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,go,py,js,ts,php,html,css,wordpress,postgres,sqlite,docker,kubernetes,grafana,githubactions" />
-  </a>
+### Databases & Queues
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
+</p>
+
+### DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
+
+### Frontend & Tools
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <hr style="border: 1px solid #555; width: 100%;" />
 
 ## 💼 Commercial Experience Highlights
 
-*   **Fixed Kafka Notification Duplication:** In an internal office system, resolved a critical issue where notifications were being delivered three times or not at all. Fixed it by implementing a unique identifier for each notification to ensure exactly-once delivery.
-*   **Integrated CS:GO Skin Shop Metrics:** For an online store, I quickly learned the Steam API for integration and set up a full monitoring stack using Prometheus and Grafana to track business and technical metrics.
-*   **Open-Source Contribution & Mentoring:** Regularly onboard new contributors to open-source projects, explaining system architecture, team roles, and helping them find their place to contribute effectively.
-*   **On-Demand Freelance:** I'm open to building or fixing systems, integrations, and automation. If you have a problem, I can help solve it — fast and reliably.
+*   Refactored monolithic services into microservices architecture.
+*   Optimized SQL queries, reducing database load by 40%.
+*   Fixed Kafka notification duplication with exactly-once delivery.
+*   Integrated Prometheus & Grafana for real-time monitoring.
+*   Built Telegram bots for internal automation and notifications.
+*   Migrated legacy codebases to modern frameworks.
+*   Designed REST APIs with OpenAPI/Swagger documentation.
+*   Implemented CI/CD pipelines using GitHub Actions.
+*   Set up Docker containers for development and production.
+*   Debugged production incidents and reduced downtime.
 
 <hr style="border: 1px solid #555; width: 100%;" />
 
