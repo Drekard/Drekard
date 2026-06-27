@@ -87,7 +87,8 @@ This is my magnum opus — a long-term project designed to be a privacy-focused 
 *   **Key Challenge:** The most difficult part was mastering NAT traversal, configuring libp2p protocols (DHT, relay, mDNS, pubsub), and ensuring end-to-end encryption worked flawlessly across the network.
 *   **Current Status:** Already usable in its current state. My next steps are migrating to an HTML/CSS-based UI framework and continuing optimization.
 
-![Main screen projectT](scr1.png)
+
+<img src="scr1.png" alt="Main screen projectT" width="50%">
 
 [🔗 View on GitHub](https://github.com/Drekard/projectT)
 
