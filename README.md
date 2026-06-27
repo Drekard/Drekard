@@ -15,6 +15,7 @@ I'm a software engineer with ~3 years of experience, driven by a passion for bui
 *   **Full-Stack Capable:** I can build a robust backend and a functional frontend. I'm not a pixel-perfect designer, but I can make it work.
 *   **AI-Augmented Development:** I actively use AI assistants to accelerate development, research new stacks, and maintain momentum even when tired.
 *   **Always Learning:** Currently focused on deepening my knowledge of web protocols, hosting, and networking to close gaps in my expertise.
+*   **Telegram Bot Development:** Experienced in building custom Telegram bots for automation, notifications, and internal workflows.
 
 <hr style="border: 1px solid #555; width: 100%;" />
 
@@ -85,6 +86,8 @@ This is my magnum opus — a long-term project designed to be a privacy-focused 
 *   **My Role:** Sole developer, architect, and designer. I built everything from scratch.
 *   **Key Challenge:** The most difficult part was mastering NAT traversal, configuring libp2p protocols (DHT, relay, mDNS, pubsub), and ensuring end-to-end encryption worked flawlessly across the network.
 *   **Current Status:** Already usable in its current state. My next steps are migrating to an HTML/CSS-based UI framework and continuing optimization.
+
+![Main screen projectT](scr1.png)
 
 [🔗 View on GitHub](https://github.com/Drekard/projectT)
 
