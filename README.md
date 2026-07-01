@@ -101,7 +101,7 @@ This is my magnum opus — a long-term project designed to be a privacy-focused 
 
 Created in one evening based on a vague technical requirement ("just make a website"). It demonstrates clean, functional layout with HTML, CSS, and a touch of JavaScript — all without a backend.
 
-[🔗 View on GitHub](https://github.com/Drekard/pitomnik-)
+[https://github.com/Drekard/pitomnik-](https://drekard.github.io/pitomnik-/)
 
 <hr style="border: 1px solid #555; width: 100%;" />
 
